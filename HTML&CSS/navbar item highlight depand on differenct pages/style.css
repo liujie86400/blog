@@ -1,0 +1,12 @@
+nav li {
+    opacity: 0.5;
+    height: 40px;
+    width: 1020px;
+    float: left;
+}
+.home nav li.nav__item--home,
+.contact nav li.nav__item--contact,
+.aboutme nav li.nav__item--aboutme,
+.articles nav li.nav__item--articles {
+    opacity: 1;
+}
